@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple projects as I grow 
 - 📫 How to reach me: johanjaners@gmail.com
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: beats on, codes on
+- ⚡ Fun fact: beats on, vibes on
 
 <!---
 johanjaners/johanjaners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
