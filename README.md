@@ -14,5 +14,5 @@
 - Git workflows and automation  
 - Clean, efficient Python practices
 
-📫 Reach me: [johan.janers@gmail.com](mailto:johan.janers@gmail.com)  
+📫 Reach me: [johan.janers@gmail.com](mailto:johanjaners@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)
