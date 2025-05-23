@@ -2,7 +2,7 @@
 
 🔧 I build tools to solve problems — with data, systems, and code  
 📊 Exploring data systems using Python, Linux, and Git  
-🎯 Focused on generating actionable insights through performance data analysis
+🎯 Focused on performance analysis using Python-based tools to extract KPIs and generate data-driven insights
 
 ### 🛠️ Projects
 - **mf4_analyzer** – Python-based tool to extract and analyze performance KPIs from `.mf4` log files for EV batteries
