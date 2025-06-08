@@ -2,7 +2,7 @@
 
 I build tools for extracting insights and solving problems — using data systems, pipelines, and code.  
 Currently exploring data workflows using Python, SQL, and Git.  
-Focused on performance analysis through Python ETLs that extract KPIs and generate structured reports and metadata exports for SQL integration.
+Focused on performance analysis through ETLs that extract KPIs and generate structured reports and metadata exports for SQL integration.
 
 ---
 
