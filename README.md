@@ -1,26 +1,14 @@
-## 👋 Hi, I'm Johan Janérs
+👋 Hi, I’m Johan Janérs
 
-I build tools for extracting insights and solving problems — using data systems, pipelines, and code.  
-Currently exploring data workflows using Python, SQL, and Git.  
-Focused on performance analysis through pipelines that extract KPIs and generate structured reports and metadata exports for SQL integration.
+Currently training as a Fullstack Developer @ SALT.
+Background in engineering & testing, where I built Python tools for data extraction and reporting.
 
----
+⸻
 
-### 🛠️ Projects
-
-- **mf4_analyzer** — Python pipeline for processing `.mf4` EV system logs, extracting KPIs, and generating structured reports and SQL-ready metadata.  
-  *Future extensions include dashboard generation and batch processing.*
-- **mf4_visualizer** — Visualizes filtered signal data from `.mf4` logs with export and plotting tools.
-- **johanjaners** — Personal GitHub config and profile setup.
-
----
-
-### 📚 Currently Learning
-
-- Modular data pipelines with SQL and database integration  
-- Git workflows and automation for collaboration  
-- Clean, efficient Python for maintainable codebases  
-- Cloud workflows for data storage, automation, and deployment
+⚒️ Projects
+• mf4_analyzer — Python tool for processing EV system logfiles (.mf4), extracting KPIs, and exporting structured reports (CSV/PDF)
+• mf4_visualizer — Simple viewer for filtered signal data from .mf4 logs, with plotting and export features
+• johanjaners — Personal GitHub config and profile setup
 
 ---
 
