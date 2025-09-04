@@ -1,14 +1,13 @@
-👋 Hi, I’m Johan Janérs
+# 👋 Hi, I'm Johan Janérs
 
-Currently training as a Fullstack Developer @ SALT.
-Background in engineering & testing, where I built Python tools for data extraction and reporting.
+💻 Fullstack Developer in training @ SALT  
+🌐 Focus: Web development (C#/.NET, JavaScript/React, APIs, Databases)  
+🎯 Goal: Build modern, scalable web applications as a backend/frontend/fullstack developer.  
 
-⸻
-
-⚒️ Projects
-• mf4_analyzer — Python tool for processing EV system logfiles (.mf4), extracting KPIs, and exporting structured reports (CSV/PDF)
-• mf4_visualizer — Simple viewer for filtered signal data from .mf4 logs, with plotting and export features
-• johanjaners — Personal GitHub config and profile setup
+## 🚀 Current Projects
+- **.NET & C# exercises** → learning backend fundamentals, OOP, and APIs  
+- **React/JavaScript apps** → frontend components and state management  
+- **Fullstack practice** → connecting APIs, databases, and frontend interfaces  
 
 ---
 
