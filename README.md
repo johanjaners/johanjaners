@@ -7,7 +7,7 @@
 ## 🚀 Current Projects
 - **Full-stack Kanban Board — ASP.NET Web API, EF Core, PostgreSQL, Azure, CI/CD**
 - **.NET & C# exercises** → learning backend fundamentals, OOP, and APIs  
-- **React/JavaScript apps** → frontend components and state management  
+- **React/TypeScript apps** → frontend components and state management  
 - **Fullstack practice** → connecting APIs, databases, and frontend interfaces  
 
 ---
