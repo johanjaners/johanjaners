@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Johan Janérs
 
 💻 Fullstack Developer in training @ SALT  
-🌐 Focus: Web development (C#/.NET, JavaScript/React, APIs, Databases)  
+🌐 Focus: Web development (C#/.NET, TypeScript/React, APIs, Databases)  
 🎯 Goal: Build modern, scalable web applications as a backend/frontend/fullstack developer.  
 
 ## 🚀 Current Projects
 - **Full-stack Kanban Board — ASP.NET Web API, EF Core, PostgreSQL, Azure, CI/CD**
 - **.NET & C# exercises** → learning backend fundamentals, OOP, and APIs  
-- **React/JavaScript apps** → frontend components and state management  
+- **React/TypeScript apps** → frontend components and state management  
 - **Fullstack practice** → connecting APIs, databases, and frontend interfaces  
 
 ---
