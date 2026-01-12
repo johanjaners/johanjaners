@@ -13,7 +13,7 @@
 ## 🚀 Featured Projects
 - **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration
 - **Kanban Board** — Task management with Azure deployment, CI/CD pipeline, multi-page React UI
-- **Movie Library** — Clean architecture demo with repository pattern, service layer, Docker deployment
+- **Movie Library** — Backend architecture with repository pattern, service layer, and Docker deployment
 
 👉 Contact: [johanjaners@gmail.com](mailto:johanjaners@gmail.com)  
 👉 LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)
