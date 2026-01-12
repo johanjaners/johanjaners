@@ -11,7 +11,7 @@
 - Auth: Clerk (JWT), role-based authorization
 
 ## 🚀 Featured Projects
-- **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration, production debugging
+- **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration
 - **Kanban Board** — Task management with Azure deployment, CI/CD pipeline, multi-page React UI
 - **Movie Library** — Clean architecture demo with repository pattern, service layer, Docker deployment
 
