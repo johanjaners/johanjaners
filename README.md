@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johan Janérs
 
-💼 Full-Stack .NET Developer @ SALT (graduated Dec 2025)  
+💼 Full-Stack .NET Developer
 🎯 Focus: Web development (C#/.NET, TypeScript/React, APIs, Databases) 
 
 ## 🔧 Tech Stack
