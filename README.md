@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johan Janérs
 
-💼 Full-Stack .NET Developer
+💼 Full-Stack .NET Developer  
 🎯 Focus: Web development (C#/.NET, TypeScript/React, APIs, Databases) 
 
 ## 🔧 Tech Stack
