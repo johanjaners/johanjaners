@@ -15,9 +15,9 @@
 
 - **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration.
 
-- **Kanban Board** — Clerk authentication, repository pattern, service layer, Azure deployment with CI/CD.
-
-- **Movie Library** — Backend architecture with repository pattern, service layer, and Docker deployment.
+- **Kanban Board** — Kanban board application built with ASP.NET Web API, React + TypeScript, PostgreSQL, deployed on Azure with automated CI/CD.
+  
+- **Movie Library** — RESTful ASP.NET Web API with repository pattern, service layer architecture, and Docker deployment.
 
 👉 Contact: [johanjaners@gmail.com](mailto:johanjaners@gmail.com)  
 👉 LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)
