@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-- **Note2QuizAI** (Team project, 3 developers) — AI-powered quiz generator using ASP.NET Core, React, Azure AI Vision, and Azure OpenAI. Implemented AI-powered quiz generation service using Azure OpenAI, quiz submission and scoring logic, and REST API endpoints using a service-layer architecture.
+- **Note2QuizAI** (Team project, 3 developers) — AI-powered quiz generator using ASP.NET Core, React, Azure AI Vision, Azure OpenAI, deployed on AWS (Amplify, Elastic Beanstalk, CloudFront). Implemented AI-powered quiz generation service using Azure OpenAI, quiz submission and scoring logic, and REST API endpoints using a service-layer architecture.
 
 - **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration.
 
