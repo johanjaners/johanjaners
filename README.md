@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 C# / .NET • ASP.NET Core • Entity Framework  
 Azure • Docker • GitHub Actions  
 React • TypeScript • JWT Auth  
@@ -11,27 +11,27 @@ Azure OpenAI
 
 ---
 
-## 🎯 Featured Projects
+### 🎯 Featured Projects
 
-### Recipe Search API • [Live](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger)    
+**Recipe Search API** • [**Live**](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger)    
 Multilingual recipe search API with deterministic ranking, Azure OpenAI query interpretation, and Azure cloud deployment.  
 Clean architecture • Azure App Service • Blob Storage
 
-### Note2QuizAI • [Live](https://main.d2tidw0fafhzdw.amplifyapp.com/)  
+**Note2QuizAI** • [**Live**](https://main.d2tidw0fafhzdw.amplifyapp.com/)  
 AI‑powered quiz generator using ASP.NET Core, React, Azure OpenAI, and Azure Vision.  
 Deployed on AWS (Amplify, Elastic Beanstalk, CloudFront)
 
-### Kanban Board • [Live](https://brave-cliff-0698b8403.3.azurestaticapps.net/)    
+**Kanban Board** • [**Live**](https://brave-cliff-0698b8403.3.azurestaticapps.net/)    
 Full‑stack Kanban app with ASP.NET Web API, React + TypeScript, PostgreSQL.  
 Azure deployment with automated CI/CD.
 
-### PulseCare (Backend) • [Live](https://pulsecare.online/)
+**PulseCare (Backend)** • [**Live**](https://pulsecare.online/)  
 Healthcare platform (team of 11).  
 Owned the appointments domain: API design, CRUD, JWT auth.
 
 ---
 
-## 📬 Contact  
+### 📬 Contact  
 Email: johanjaners@gmail.com  
 LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)  
 Portfolio: [johanjaners.dev](https://johanjaners.dev)
