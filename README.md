@@ -1,23 +1,37 @@
-# 👋 Hi, I'm Johan Janérs
+# 🚀 Johan Janérs  
+### Backend & AI‑Driven .NET Developer — building clean, robust APIs with Azure and modern web tech
 
-💼 Full-Stack .NET Developer  
-🎯 Focus: Web development (C#/.NET, TypeScript/React, APIs, Databases) 
+---
 
-## 🔧 Tech Stack
-- Backend: C#/.NET, ASP.NET Core, Entity Framework, SQL Server/PostgreSQL
-- Frontend: React, TypeScript, TanStack Query/Router, Tailwind
-- Cloud & DevOps: Azure, CI/CD (GitHub Actions), Docker
-- Auth: Clerk (JWT), role-based authorization
+## 🛠 Tech Stack
+C# / .NET • ASP.NET Core • Entity Framework  
+Azure • Docker • GitHub Actions  
+React • TypeScript • JWT Auth  
+Azure OpenAI
 
-## 🚀 Featured Projects
+---
 
-- **Note2QuizAI** (Team project, 3 developers) — AI-powered quiz generator using ASP.NET Core, React, Azure AI Vision, Azure OpenAI, deployed on AWS (Amplify, Elastic Beanstalk, CloudFront). Implemented AI-powered quiz generation service using Azure OpenAI, quiz submission and scoring logic, and REST API endpoints using a service-layer architecture.
+## 🎯 Featured Projects
 
-- **PulseCare** (Team project, 11 developers) — Healthcare platform with role-based access. Owned appointments domain: API design, authentication, frontend integration.
+### Recipe Search API • [Live](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger)    
+Multilingual recipe search API with deterministic ranking, Azure OpenAI query interpretation, and Azure cloud deployment.  
+Clean architecture • Azure App Service • Blob Storage
 
-- **Kanban Board** — Kanban board application built with ASP.NET Web API, React + TypeScript, PostgreSQL, deployed on Azure with automated CI/CD.
-  
-- **Movie Library** — RESTful ASP.NET Web API with repository pattern, service layer architecture, and Docker deployment.
+### Note2QuizAI • [Live](https://main.d2tidw0fafhzdw.amplifyapp.com/)  
+AI‑powered quiz generator using ASP.NET Core, React, Azure OpenAI, and Azure Vision.  
+Deployed on AWS (Amplify, Elastic Beanstalk, CloudFront)
 
-👉 Contact: [johanjaners@gmail.com](mailto:johanjaners@gmail.com)  
-👉 LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)
+### Kanban Board • [Live](https://brave-cliff-0698b8403.3.azurestaticapps.net/)    
+Full‑stack Kanban app with ASP.NET Web API, React + TypeScript, PostgreSQL.  
+Azure deployment with automated CI/CD.
+
+### PulseCare (Backend) • [Live](https://pulsecare.online/)
+Healthcare platform (team of 11).  
+Owned the appointments domain: API design, CRUD, JWT auth.
+
+---
+
+## 📬 Contact  
+Email: johanjaners@gmail.com  
+LinkedIn: [linkedin.com/in/johan-janers](https://linkedin.com/in/johan-janers)  
+Portfolio: [johanjaners.dev](https://johanjaners.dev)
