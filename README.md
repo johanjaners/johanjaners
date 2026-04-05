@@ -1,4 +1,4 @@
-# 🚀 Johan Janérs  
+# 🚀 [Johan Janérs](https://johanjaners.dev)  
 ### Backend & AI‑Driven .NET Developer — building clean, robust APIs with Azure and modern web tech
 
 ---
