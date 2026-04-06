@@ -23,7 +23,7 @@ Deployed on AWS (Amplify, Elastic Beanstalk, CloudFront)
 
 **Kanban Board** • [**Live**](https://brave-cliff-0698b8403.3.azurestaticapps.net/)    
 Full‑stack Kanban app with ASP.NET Web API, React + TypeScript, PostgreSQL.  
-Azure deployment with automated CI/CD.
+Secured with Clerk and deployed on Azure with automated CI/CD.
 
 **PulseCare (Backend)** • [**Live**](https://pulsecare.online/)  
 Healthcare platform (team of 11).  
