@@ -13,19 +13,19 @@ Azure OpenAI
 
 ### 🎯 Featured Projects
 
-**Recipe Search API** • [**Live**](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger)    
+**Recipe Search API** • [**Live**](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger) • [**Repo**](https://github.com/johanjaners/recipe-search-api)    
 Multilingual recipe search API with deterministic ranking, Azure OpenAI query interpretation, and Azure cloud deployment.  
 Clean architecture • Azure App Service • Blob Storage
 
-**Note2QuizAI** • [**Live**](https://main.d2tidw0fafhzdw.amplifyapp.com/)  
+**Note2QuizAI** • [**Live**](https://main.d2tidw0fafhzdw.amplifyapp.com/) • [**Repo**](https://github.com/johanjaners/Note2QuizAI)      
 AI‑powered quiz generator using ASP.NET Core, React, Azure OpenAI, and Azure Vision.  
 Deployed on AWS (Amplify, Elastic Beanstalk, CloudFront)
 
-**Kanban Board** • [**Live**](https://brave-cliff-0698b8403.3.azurestaticapps.net/)    
+**Kanban Board** • [**Live**](https://brave-cliff-0698b8403.3.azurestaticapps.net/) • [**Repo**](https://github.com/johanjaners/kanban-board)        
 Full‑stack Kanban app with ASP.NET Web API, React + TypeScript, PostgreSQL.  
 Secured with Clerk and deployed on Azure with automated CI/CD.
 
-**PulseCare (Backend)** • [**Live**](https://pulsecare.online/)  
+**PulseCare (Backend)** • [**Live**](https://pulsecare.online/) • [**Repo**](https://github.com/johanjaners/PulseCare-backend)      
 Healthcare platform (team of 11).  
 Owned the appointments domain: API design, CRUD, JWT auth.
 
