@@ -13,8 +13,12 @@ Azure OpenAI
 
 ### 🎯 Featured Projects
 
+**Event Driven Payment Service** • [**Repo**](https://github.com/johanjaners/event-driven-payment-service)  
+Event driven payment and invoice microservice built with asynchronous event processing, invoice lifecycle management, and persistent state handling.  
+Kafka • Microservices • PostgreSQL • Clean Architecture  
+
 **Recipe Search API** • [**Live**](https://recipe-search-api-a8cwexa9fag3fyg2.westeurope-01.azurewebsites.net/swagger) • [**Repo**](https://github.com/johanjaners/recipe-search-api)    
-Multilingual recipe search API with deterministic ranking, Azure OpenAI query interpretation, and Azure cloud deployment.  
+Multilingual recipe search API with deterministic ranking, Azure OpenAI query interpretation, and Azure cloud deployment.   
 Clean architecture • Azure App Service • Blob Storage
 
 **Note2QuizAI** • [**Live**](https://main.d2tidw0fafhzdw.amplifyapp.com/) • [**Repo**](https://github.com/johanjaners/Note2QuizAI)      
