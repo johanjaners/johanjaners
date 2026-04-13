@@ -4,7 +4,7 @@
 ---
 
 ### 🛠 Tech Stack
-C# / .NET • ASP.NET Core • Entity Framework  
+C# / .NET • ASP.NET Core • Entity Framework • Kafka  
 Azure • Docker • GitHub Actions  
 React • TypeScript • JWT Auth  
 Azure OpenAI
